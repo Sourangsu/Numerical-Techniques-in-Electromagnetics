@@ -1,4 +1,4 @@
-# Numerical-techniques-in-Electromagnetics-Code
+# Numerical-Techniques-in-Electromagnetics-Code
 
 This repository hosts the assignment for Numerical Techniques in Electromagnetics (ECE 6340) taught by Dr. Jamesina Simpson at the University of Utah in Spring'17.
 
